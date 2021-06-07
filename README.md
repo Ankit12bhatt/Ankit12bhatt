@@ -1,9 +1,5 @@
 ### Hi there I am Ankit Bhatt 👋
 
-<!--
-**Ankit12bhatt/Ankit12bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on...  Node.js
 - 🌱 I’m currently learning... full_stack_web_development 

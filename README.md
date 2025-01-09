@@ -1,9 +1,9 @@
-### Hi there I am Ankit Bhatt 👋
+### Overview, Hey, Ankit here 👋
 
 
-- 🔭 I’m currently working on...  Angularjs
-- 🌱 I’m currently learning... full_stack_web_development 
-- 💬 Ask me about... Data_Structure_and_Algotithms and web development 
+- 🔭 I’m currently working on... Improving Code qualtiy 
+- 🌱 I’m currently learning... AI/ML 
+- 💬 Ask me about... Data_Structure_Algotithms and web development 
 - 📫 How to reach me: ankitbhatt640@gmail.com. 
 - 😄 Pronouns: He/Him
 - ⚡ Debugging is like being a dectective in a crime movie where you're also the murderere. - Filipe Forted -
